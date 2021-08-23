@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
 
   spec.homepage     = "https://github.com/zxgy/ZuJianHuanPods"
 
-  spec.license      = { :type => "MIT" }
+  spec.license      = "MIT"
 
   spec.author             = { "jiameng" => "17737812427@163.com" }
 
